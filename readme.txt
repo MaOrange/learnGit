@@ -14,3 +14,4 @@ master +apple is red
 
 well..... only blue apple is good
 
+changes to see how to merge without fast skip
