@@ -20,4 +20,6 @@ Bug scentence: The earth goes around the sun.
 
 Work: 3.1415926 2.71  otherwork lafjlajflasdjflsjadg std::cout<<"Hello World!!!"<<endl;
 
+Bug:  It is impossible to debug.
+
 
