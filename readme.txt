@@ -15,3 +15,7 @@ master +apple is red
 well..... only blue apple is good
 
 changes to see how to merge without fast skip
+
+Bug scentence: The sun goes around the earth
+
+Work: 3.1415926 2.71
